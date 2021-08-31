@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+pandas_profiling
+seaborn
+sklearn.preprocessing
+sklearn.linear_model
+sklearn.model_selection
+streamlit_pandas_profiling
+statsmodels
